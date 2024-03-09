@@ -1,0 +1,5 @@
+#!/bin/sh
+
+path=$HOME/.config/fehbg/images/lonely-tree.jpg
+
+feh --no-fehbg --bg-fill $path
