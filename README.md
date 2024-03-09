@@ -1,0 +1,2 @@
+# Dotfiles
+This is a collection of my dotfiles. Just clone them into your home dir and rename it into `.config/` or place them somewhere else and symlink them to the right place. Look into using `stow` for this.
