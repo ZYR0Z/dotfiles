@@ -1,5 +1,5 @@
 #!/bin/sh
 
-path=$HOME/.config/fehbg/images/lonely-tree.jpg
+path=$HOME/.config/fehbg/images/dark-farns.jpg
 
 feh --no-fehbg --bg-fill $path

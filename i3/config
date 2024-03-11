@@ -14,7 +14,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 # compositor picom
-# exec_always --no-startup-id picom -b
+exec_always --no-startup-id picom -b
 
 # set powersavings for display:
 exec --no-startup-id xset s 480 dpms 600 600 600
