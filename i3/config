@@ -17,7 +17,7 @@ bindsym $mod+Shift+r restart
 exec_always --no-startup-id sleep 1 && ~/.config/fehbg/.fehbg
 
 # compositor picom
-exec_always --no-startup-id sleep 1 && picom -b
+# exec_always --no-startup-id sleep 1 && picom -b
 
 # set powersavings for display:
 exec --no-startup-id xset s 480 dpms 600 600 600
